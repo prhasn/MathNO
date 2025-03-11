@@ -23,12 +23,12 @@ Gnome's calculator UI:
 ### Performance
 Google's PageSpeed [benchmarking](https://pagespeed.web.dev/analysis/https-mathno-com/3t87c4vk1z?form_factor=desktop)
 
-![Google's PageSpeed Test Desktop](https://github.com/prhasn/MathNO/assets/55940669/85d77e71-594c-4d75-8650-bc46998c8584)
+![Google's PageSpeed Test Desktop](https://github.com/user-attachments/assets/13e58fb1-5b96-4727-b232-00fbc292e37c)
 Google PageSpeed Test Desktop
 
 .
 
-![Google's PageSpeed Test Mobile](https://github.com/prhasn/MathNO/assets/55940669/4648b673-a150-49d6-88bf-127e38c75c72)
+![Google's PageSpeed Test Mobile](https://github.com/user-attachments/assets/f0a04d8d-c9a9-4f1b-9346-775b23de8314)
 Google PageSpeed Test Mobile
 
 .
