@@ -17,8 +17,8 @@
     ],
     "display": "standalone",
     "orientation": "portrait",
-    "short_name": "TheeCal",
+    "short_name": "MathNO",
     "start_url": "/",
-    "description": "Thee Calculator to use everyday",
-    "name": "TheeCal"
+    "description": "MathNO Calculator to use everyday",
+    "name": "MathNO"
 }

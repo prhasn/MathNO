@@ -1,12 +1,12 @@
 /** Cache name */
-const cacheName = `thee_calculator`;
+const cacheName = `mathno_calculator`;
 
 // Save app resources (on install)
 self.oninstall = e => e.waitUntil(
 	caches.open(cacheName).then(files =>
 		files.addAll([
-			`./index.html?24062201`,
-			`./manifest.json?24062201`,
+			`./index.html?25031201`,
+			`./manifest.json?25031201`,
 			`./sw.js`
 		]).then(() => self.skipWaiting()))
 );

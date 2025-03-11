@@ -1,13 +1,13 @@
-# Thee Calculator
-Thee Calculator for everyday needs helps you make basic calculations with a unique consistent experience on all your devices.
+# MathNO Calculator
+MathNO Calculator for everyday needs helps you make basic calculations with a unique consistent experience on all your devices.
 
-![App screenshot](https://theecal.com/img/cover.png)
+![App screenshot](https://mathno.com/img/cover.png)
 
 
 ### Installation
-Open TheeCal.com from any device and click install to install it as a native app. This works best in Google Chrome browser, but should work as well for all Chromium browsers.
+Open MathNO.com from any device and click install to install it as a native app. This works best in Google Chrome browser, but should work as well for all Chromium browsers.
 ```
-https://theecal.com/
+https://mathno.com/
 ```
 
 ### Status
@@ -21,17 +21,17 @@ Gnome's calculator UI:
 ![GNOME Calculator](https://user-images.githubusercontent.com/55940669/226196919-19c159c4-6bb7-4e5e-be10-f036d0bc023c.png)
 
 ### Performance
-Google's PageSpeed [benchmarking](https://pagespeed.web.dev/analysis/https-theecal-com/4vp16oavte?form_factor=mobile)
+Google's PageSpeed [benchmarking](https://pagespeed.web.dev/analysis/https-mathno-com/3t87c4vk1z?form_factor=desktop)
 
-![Google's PageSpeed Test Desktop](https://github.com/prhasn/TheeCal/assets/55940669/85d77e71-594c-4d75-8650-bc46998c8584)
+![Google's PageSpeed Test Desktop](https://github.com/prhasn/MathNO/assets/55940669/85d77e71-594c-4d75-8650-bc46998c8584)
 Google PageSpeed Test Desktop
 
 .
 
-![Google's PageSpeed Test Mobile](https://github.com/prhasn/TheeCal/assets/55940669/4648b673-a150-49d6-88bf-127e38c75c72)
+![Google's PageSpeed Test Mobile](https://github.com/prhasn/MathNO/assets/55940669/4648b673-a150-49d6-88bf-127e38c75c72)
 Google PageSpeed Test Mobile
 
 .
 
 ### Feedback
-For feedback post on X and tag [@TheeCalc](https://x.com/TheeCalc)
+For feedback post on X and tag [@MathNO_](https://x.com/MathNO_)
