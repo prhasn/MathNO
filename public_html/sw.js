@@ -5,8 +5,8 @@ const cacheName = `mathno_calculator`;
 self.oninstall = e => e.waitUntil(
 	caches.open(cacheName).then(files =>
 		files.addAll([
-			`./index.html?25031201`,
-			`./manifest.json?25031201`,
+			`./index.html?25031203`,
+			`./manifest.json?25031203`,
 			`./sw.js`
 		]).then(() => self.skipWaiting()))
 );
