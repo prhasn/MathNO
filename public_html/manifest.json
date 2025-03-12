@@ -3,13 +3,13 @@
     "theme_color": "#529cbd",
     "icons": [
         {
-            "src": "/img/logo.png?23032531",
+            "src": "/img/logo.png?25031201",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "maskable"
         },
         {
-            "src": "/img/logo.png?23032531",
+            "src": "/img/logo.png?25031201",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
